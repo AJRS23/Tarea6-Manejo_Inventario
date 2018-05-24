@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "53030339061",
+    "firebase_url": "https://inventariotarea6.firebaseio.com",
+    "project_id": "inventariotarea6",
+    "storage_bucket": "inventariotarea6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53030339061:android:1eafab02c3275183",
+        "android_client_info": {
+          "package_name": "com.tec.alvaroramirez.inventariotarea6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53030339061-dvshldif1fapj44up1cqp0v3r8j14j8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tec.alvaroramirez.inventariotarea6",
+            "certificate_hash": "65d12554ae4f5cdbb4b10ec6ef698328c2228c6d"
+          }
+        },
+        {
+          "client_id": "53030339061-ujdb476oav7kar3kic246ou6q9cv8636.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "53030339061-ujdb476oav7kar3kic246ou6q9cv8636.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDovUCjx4CrOjiqt5NZpZmc6qJ5g5CjYJ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53030339061-ujdb476oav7kar3kic246ou6q9cv8636.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53030339061:android:dff372c04c07ced8",
+        "android_client_info": {
+          "package_name": "com.tec.alvaroramirez.tarea6inventario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53030339061-0dg5tr1j9b9uobo5qo76aufjrn63vopl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tec.alvaroramirez.tarea6inventario",
+            "certificate_hash": "65d12554ae4f5cdbb4b10ec6ef698328c2228c6d"
+          }
+        },
+        {
+          "client_id": "53030339061-ujdb476oav7kar3kic246ou6q9cv8636.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "53030339061-ujdb476oav7kar3kic246ou6q9cv8636.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDovUCjx4CrOjiqt5NZpZmc6qJ5g5CjYJ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53030339061-ujdb476oav7kar3kic246ou6q9cv8636.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
